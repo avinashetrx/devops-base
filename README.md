@@ -1,2 +1,2 @@
 # devops-base
-Base collection of Devops Articles
+Base collection of Devops gotcha and codebase
